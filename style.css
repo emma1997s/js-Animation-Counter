@@ -13,6 +13,7 @@ body {
 .icon_img {
   width: 30px;
   margin: 10px;
+  border-radius: 100px;
 }
 
 .head_text {
